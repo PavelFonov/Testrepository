@@ -1,5 +1,4 @@
 newfile
 new file 2
 new file
-
 new Branch
